@@ -1,0 +1,38 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Contact details section */
+.contact-details {
+    background-color: white;
+    padding: 1em;
+    margin-bottom: 20px;
+}
+
+/* Form section */
+.form-container {
+    background-color: white;
+    padding: 1em;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
